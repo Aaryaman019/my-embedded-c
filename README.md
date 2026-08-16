@@ -1,1 +1,1 @@
-# my-embedded-c
+# embedded-c-learning
