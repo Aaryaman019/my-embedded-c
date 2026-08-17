@@ -10,6 +10,7 @@
   char a7= '!';
   char a8= '9';
  
-  printf("the complete string is : %c%c%c%c%c%c%c%c\n",a1,a2,a3,a4,a5,a6,a7,a8);
+  printf("%d %d %d %d %d %d %d %d\n", a1, a2, a3, a4, a5, a6, a7, a8);
+//   printf("the complete string is : %c%c%c%c%c%c%c%c\n",a1,a2,a3,a4,a5,a6,a7,a8);
 return 0; 
 }
